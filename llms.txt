@@ -1,0 +1,28 @@
+# Imagicoll – App „Fotos sichern“
+
+> „Fotos sichern“ ist eine Android-App von Imagicoll. Sie sichert die Fotos des Handys über das WLAN zu Hause in den Imagicoll-Katalog auf dem eigenen Windows-PC, auf Wunsch von selbst. Sprache: Deutsch.
+
+Wichtige Fakten:
+
+- **Braucht den Imagicoll-Katalog** auf einem Windows-PC im selben WLAN. Der Katalog ist noch in Arbeit und noch nicht öffentlich zu haben; ohne ihn kann die App nichts sichern.
+- **Nur im Heimnetz:** Die App spricht nur mit dem eigenen PC. Kein Server von Imagicoll, keine Cloud, kein Konto, keine Nutzungsstatistik. Ins Internet geht nur einmal am Tag die Frage nach einer neuen Version (abschaltbar).
+- **Im Original:** Fotos kommen unverändert an, mit Aufnahmedatum und Aufnahmeort.
+- **Von selbst:** Android startet die Sicherung etwa alle 15 Minuten im WLAN und kurz nach jedem neuen Foto; die App muss nicht offen sein.
+- **Nichts doppelt:** App und Katalog merken sich, was gesichert ist.
+- **Koppeln** einmal je Handy über einen QR-Code, den der Katalog am PC zeigt.
+- **Nur lesen:** Die App löscht und ändert auf dem Handy nichts.
+- **Noch nicht:** Videos, iPhone, Play Store. Die Übertragung im Heimnetz ist nicht verschlüsselt.
+- **System:** Android 10 oder neuer. Die App wird als Datei (APK) von der Seite geladen.
+- **Kosten:** derzeit kostenlos.
+- **Stand:** Testphase (November 2026).
+
+## Seiten
+
+- [Startseite](https://imagicoll.de/): Wozu, Ablauf, Datenschutz, App laden, Fragen
+- [Datenschutz](https://imagicoll.de/datenschutz.html): Webseite und App
+
+## Verwandt
+
+- [Imagicosmos](https://imagicosmos.de/): das Dach über Imagicoll und seinen Geschwistern
+- [Imagiclique](https://imagiclique.de/): Status-Bilder für WhatsApp aus eigenen Fotos
+- [Imagichron](https://imagichron.de/): persönliche Bilder-Zeitreisen (Windows-Programm) aus derselben Familie
